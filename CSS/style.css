@@ -1,3 +1,18 @@
 body{
-    background-image: url("../img/patronFondo.png");
+    background: #445a97 !important;
+}
+
+.card{
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.26);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.26);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.26);
+    background-color: #c0d8ff !important;
+}
+
+.card-img-top{
+    box-shadow: 0px 4px 3px 0px rgba(0,0,0,0.26);
+}
+
+.card-img-top:hover{
+    padding: 0;
 }
