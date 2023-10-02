@@ -1,5 +1,5 @@
 body{
-    background: #445a97 !important;
+    background: #445a97 ;
 }
 
 .card{
@@ -15,4 +15,8 @@ body{
 
 .card-img-top:hover{
     padding: 0;
+}
+
+.contendorEscudo .escudoIcami{
+    height: 300px
 }
