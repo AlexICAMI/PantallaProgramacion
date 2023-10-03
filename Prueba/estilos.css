@@ -13,13 +13,9 @@ table {
 
 td {
     text-align: center;
-    font-size: 28px;
-}
-th {
-    font-weight: bold;
-    font-size: 33px;
     font-size: 43px;
 }
+
 th {
     font-weight: bold;
     font-size: 48px;
@@ -44,7 +40,7 @@ video {
     margin-top: 100px;
     margin-left: 60px;
     z-index: 2;
-    width: 580px;
+    width: 680px;
 
 }
 
