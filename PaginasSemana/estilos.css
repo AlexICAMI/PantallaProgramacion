@@ -61,3 +61,8 @@ capa {
 .logo {
     background: white;
 }
+
+tr:nth-child(odd){
+    font-weight: bolder;
+    color:rgb(255, 244, 244);
+}
